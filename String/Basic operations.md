@@ -57,3 +57,23 @@ print(result)
 
 Output
 **apple,banana,cherry**
+
+---
+
+<img width="1472" height="476" alt="image" src="https://github.com/user-attachments/assets/38e1915f-49df-4eb3-8658-fff1d797f695" />
+
+
+---
+
+**Create string from two variables using formatted string in Python**
+
+# Given variables
+name = "Apple"
+age = 12
+
+# Formatted string
+result = f"Name is {name}, and age is {age}."
+
+# Print resulting string
+print(result)
+
