@@ -25,7 +25,7 @@ In the following program, we take a list of three items in my_list,
 and create a string value from this list, by joining the items in the list, with an empty string separator.
 
 Python Program
-# Given list
+# Given list 
 my_list = ["apple", "banana", "cherry"]
 
 # Convert list to string
